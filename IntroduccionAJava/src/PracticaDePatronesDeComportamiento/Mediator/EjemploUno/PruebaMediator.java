@@ -1,4 +1,4 @@
-package PatronesDeComportamiento.Mediator;
+package PracticaDePatronesDeComportamiento.Mediator.EjemploUno;
 
 public class PruebaMediator {
     public static void main(String[] args) {

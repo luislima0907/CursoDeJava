@@ -10,9 +10,9 @@ public class PruebaDeState {
         System.out.println(primeraMision);
         primeraMision.siguiente();
         System.out.println(primeraMision);
-        primeraMision.siguiente();
-        System.out.println(primeraMision);
-        primeraMision.siguiente();
-        System.out.println(primeraMision);
+//        primeraMision.siguiente();
+//        System.out.println(primeraMision);
+//        primeraMision.siguiente();
+//        System.out.println(primeraMision);
     }
 }

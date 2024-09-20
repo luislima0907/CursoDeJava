@@ -1,10 +1,10 @@
 package PatronesDeComportamiento.Mediator;
 
-public class Compa implements Combate {
+public class ConocidoDelEnemigo implements Combate {
     private String nombre;
     private Mediator mediator;
 
-    public Compa(String nombre, Mediator mediator) {
+    public ConocidoDelEnemigo(String nombre, Mediator mediator) {
         this.nombre = nombre;
         this.mediator = mediator;
         mediator.agregar(this);
